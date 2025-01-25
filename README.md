@@ -24,16 +24,21 @@ Antes de começar com Windows Forms, é importante dominar os conceitos básicos
 Depois de consolidar os fundamentos de C#, você pode começar a explorar o **Windows Forms**, uma biblioteca usada para criar interfaces gráficas.
 
 - **Entendendo o que é Windows Forms**:
-    - [ ] O que é Windows Forms?
-    - [ ] Como funciona o ciclo de vida de uma aplicação Windows Forms?
-    - [ ] Criando o seu primeiro projeto em **Visual Studio**.
+    - [x] O que é Windows Forms?
+    - [x] Como funciona o ciclo de vida de uma aplicação Windows Forms?
+    - [x] Criando o seu primeiro projeto em **Visual Studio**.
+ 
+ - **Aqui estão os projetos desenvolvidos como parte dos meus estudos nesse bloco**:
+- [x] [Calculadora Simples](https://github.com/mleilane/CalculadoraSimples): Uma calculadora simples com interface gráfica para realizar operações básicas como soma, subtração, multiplicação e divisão.
+- [ ] [BookHub](https://github.com/mleilane/BookHub): Um sistema de gerenciamento de biblioteca pessoal. Ainda em desenvolvimento, mas com funcionalidades já implementadas.
+
 
 - **Elementos Básicos da Interface de Usuário (UI)**:
-    - [ ] **Form**: O contêiner principal de uma aplicação Windows Forms.
-    - [ ] **Labels** e **TextBoxes**: Exibir e coletar dados.
-    - [ ] **Buttons**: Ações como clicar para executar uma tarefa.
-    - [ ] **CheckBoxes** e **RadioButtons**: Inputs booleanos.
-    - [ ] **PictureBox**: Exibir imagens.
+    - [x] **Form**: O contêiner principal de uma aplicação Windows Forms.
+    - [x] **Labels** e **TextBoxes**: Exibir e coletar dados.
+    - [x] **Buttons**: Ações como clicar para executar uma tarefa.
+    - [x] **CheckBoxes** e **RadioButtons**: Inputs booleanos.
+    - [x] **PictureBox**: Exibir imagens.
 
 ---
 
